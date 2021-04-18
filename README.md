@@ -10,7 +10,11 @@ Programming:
 Report/Paper/PPT:
 1.	Mahima Chandan
 2.	Smita Rath
+
+
 Next Team Call: 
 Wednesday
+
+
 Tools: 
 AWS, Visual Code
